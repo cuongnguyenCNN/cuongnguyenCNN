@@ -4,6 +4,7 @@
 <br>
 <a href= "https://www.facebook.com/groups/472466255804401"> Blockchain Developers Community on Facebook</a>
 <br>
-<a href= "[https://www.facebook.com/groups/472466255804401](https://x.com/i/communities/1694975088091861038)"> Blockchain Developers Community on Twitter</a>
+<a href= "https://x.com/i/communities/1694975088091861038"> Blockchain Developers Community on Twitter</a>
+<br>
 🛠️ Technologies And Tools
 Javascript React C# Solidity MSSQL NextJs MongoDB Nodejs npm redux Express Bootstrap Material UI Markdown html5 Css3 Jquery git github actions postman Render.com rancher
