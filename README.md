@@ -11,6 +11,9 @@ Các project hiện tại đang làm:
 Chrome Extensions:
      <a>StandupReminder</a>
      <a>AudoFriends</a>
+
+Tools AI Wrapper
+     <a href="https://noteflowai.netlify.app/">NoteFlow AI</a>
 ## 🛠️ Technologies And Tools
 
 <p>
