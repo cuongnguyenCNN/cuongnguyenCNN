@@ -7,7 +7,7 @@
 <a href= "https://x.com/i/communities/1694975088091861038"> Blockchain Developers Community on Twitter</a>
 <br>
 
-## 🛠️ Các project hiện tại đang làm:
+## 🛠️ List of projects that I am building
 # Chrome Extensions:
 -  ♏️   <a href="https://standupreminder.netlify.app/">StandupReminder</a>
 -  ♏️   <a href="https://autofriends.netlify.app/">AudoFriends</a>
