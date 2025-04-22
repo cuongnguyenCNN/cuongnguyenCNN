@@ -6,6 +6,11 @@
 <br>
 <a href= "https://x.com/i/communities/1694975088091861038"> Blockchain Developers Community on Twitter</a>
 <br>
+
+Các project hiện tại đang làm:
+Chrome Extensions:
+     <a>StandupReminder</a>
+     <a>AudoFriends</a>
 ## 🛠️ Technologies And Tools
 
 <p>
