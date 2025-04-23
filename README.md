@@ -2,9 +2,9 @@
 <br/>
 👋 Hi, I’m Cuong, Senior Fullstack Developer ( C#, ReactJS, NodeJS, NextJS, Web3, Smart Contract, Solidity , ).
 <br>
-<a href= "https://www.facebook.com/groups/472466255804401"> Blockchain Developers Community on Facebook</a>
+<a href= "https://www.facebook.com/groups/472466255804401"> Developers Community on Facebook</a>
 <br>
-<a href= "https://x.com/i/communities/1694975088091861038"> Blockchain Developers Community on Twitter</a>
+<a href= "https://x.com/i/communities/1694975088091861038"> Developers Community on Twitter</a>
 <br>
 
 ## 🛠️ List of projects that I am building
