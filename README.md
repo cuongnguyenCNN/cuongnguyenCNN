@@ -8,7 +8,7 @@
 <br>
 
 ## 🛠️ List of projects that I am building
-# Chrome Extensions:
+# <a href="https://github.com/cuongnguyenCNN/cuongnguyenCNN/tree/main/02-tools/chrome-extension">Chrome Extensions</a>:
 -  ♏️   <a href="https://standupreminder.netlify.app/">StandupReminder</a>
 -  ♏️   <a href="https://autofriends.netlify.app/">AudoFriends</a>
 
