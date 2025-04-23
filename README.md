@@ -15,6 +15,10 @@
 # Tools AI Wrapper
 -   ♏️  <a href="https://noteflowai.netlify.app/">NoteFlow AI</a>
 
+# Social Media
+
+-   ♏️  <a href="https://video-bridge.netlify.app/">Videos Brige</a>
+
 
 ## 🛠️ Technologies And Tools
 
