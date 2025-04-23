@@ -16,8 +16,11 @@
 -   ♏️  <a href="https://noteflowai.netlify.app/">NoteFlow AI</a>
 
 # Social Media
-
+s
 -   ♏️  <a href="https://video-bridge.netlify.app/">Videos Brige</a>
+
+# Education 
+-   ♏️  <a href="https://daihocvn.netlify.app/">Videos Brige</a>
 
 
 ## 🛠️ Technologies And Tools
