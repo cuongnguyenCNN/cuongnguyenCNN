@@ -128,3 +128,6 @@
 - ⚡ Cloudflare: [https://dash.cloudflare.com](https://dash.cloudflare.com)
 - ⚡ Rails Book: [https://infinum.com/handbook/rails](https://infinum.com/handbook/rails)
 - ⚡ Moralis: [https://moralis.io](https://moralis.io/)
+
+
+<meta name="google-site-verification" content="ElIqyN2hL0jrkqvjzCvrwUKAIBO5cEBrYrIGdg3IpWU" />
