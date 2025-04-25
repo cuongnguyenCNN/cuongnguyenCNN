@@ -13,3 +13,11 @@ You can test at website <a> </a>
 - Create modal for profile page: Where you can view detail of your account on the page profile.
    Instruction: When you login from google , google will return token and from token you can request information of user.
    After that, save it on local and show infor of user in profile page.
+
+- Create note page include some tabs : notes, quiz, flashcards, transcript
+  + notes: get some main details on a video, pdf ...
+  + quiz:  suggest some questions from note that you can remember all infor from notes.
+  + flascards: questions and answers when you slip the cards.
+  + transcripts: details of notes include all information of note that help you manage and learning fast from reading full papers.
+
+- Create introduce about NoteFlow Ai. Help you understand about it
