@@ -20,4 +20,9 @@ You can test at website <a> </a>
   + flascards: questions and answers when you slip the cards.
   + transcripts: details of notes include all information of note that help you manage and learning fast from reading full papers.
 
-- Create introduce about NoteFlow Ai. Help you understand about it
+- Create introduce about NoteFlow Ai. Help you understand about it 
+  You can access at <a href="https://noteflowai.netlify.app/dashboard/notes/0"></a>
+
+
+
+- Every user just create three notes on trial account
