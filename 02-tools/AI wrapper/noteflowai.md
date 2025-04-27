@@ -24,5 +24,6 @@ You can test at website <a> </a>
   You can access at <a href="https://noteflowai.netlify.app/dashboard/notes/0"></a>
 
 
-
 - Every user just create three notes on trial account
+
+- Upload file pdf and create note main detail on dashboard.
