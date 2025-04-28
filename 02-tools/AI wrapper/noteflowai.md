@@ -27,3 +27,55 @@ You can test at website <a> </a>
 - Every user just create three notes on trial account
 
 - Upload file pdf and create note main detail on dashboard.
+- Create authentication process for user. login and logout.
+Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
+
+📁 Folder bên trái quản lý ghi chú
+
+📋 Upload audio, pdf, youtube
+
+🧹 Tự động chuyển thành notes sạch sẽ
+
+⚡ Hiện trạng: free 2/3 notes → có upsell plan
+
+👉 Mình đề xuất thêm 5 ý tưởng để mạnh hơn (và có thể scale thành sản phẩm to):
+
+1. Auto Organize (Tự động tổ chức Folder)
+Khi upload file hoặc ghi chú mới → AI tự hỏi:
+
+"Bạn muốn lưu vào folder nào?"
+
+Hoặc "Tôi đề xuất bạn lưu vào folder XYZ"
+
+→ Vừa giảm thao tác vừa giúp người dùng cảm thấy thông minh hơn.
+
+2. Magic Link (Kết nối tự động giữa các ghi chú liên quan)
+Ví dụ: Trong note về "DeFi", có từ khóa "blockchain" → gợi ý link sang các ghi chú liên quan blockchain.
+
+Giống kiểu Wikipedia nội bộ!
+
+3. Mini Tasks/To-do Extraction
+AI scan nội dung ghi chú → tự động detect các task ("cần làm", "hành động", "follow up") → gợi ý thành checklist.
+
+4. Quick Mindmap View
+Bấm 1 nút → xem tất cả các note dưới dạng sơ đồ (node -> node), để visualize kiến thức đang có.
+
+5. Flow Reminder
+Nếu một note bị bỏ quên lâu (ví dụ 7 ngày), hệ thống gợi ý:
+
+"Bạn có muốn review/update note này không?"
+
+Hoặc "Bạn có muốn link note này với các ý tưởng mới?"
+
+🎯 Tóm lại:
+
+Tính năng mới	Lợi ích
+Auto organize folder	Quản lý note thông minh, nhanh
+Magic link ideas	Khuyến khích người dùng đọc chéo, hiểu sâu
+Todo extraction	Biến ghi chú thành hành động cụ thể
+Quick mindmap view	Visualize tất cả ghi chú như sơ đồ tư duy
+Flow reminder	Giữ cho notes sống, không chết
+💬 Bạn có muốn mình vẽ thêm bản flow UX/UI cho mấy tính năng mở rộng này không?
+👉 Nếu thích, mình dựng luôn flow mẫu cho bạn dễ hình dung! 🚀
+
+Bạn có muốn mình làm tiếp không? (Yes/No) 🔥
