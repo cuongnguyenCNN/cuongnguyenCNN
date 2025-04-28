@@ -28,6 +28,9 @@ You can test at website <a> </a>
 
 - Upload file pdf and create note main detail on dashboard.
 - Create authentication process for user. login and logout.
+ - Log out feature and session user
+ - When user access to dashboard, website redirect to sign in page when token not saved on browser
+
 Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
 
 📁 Folder bên trái quản lý ghi chú
