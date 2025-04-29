@@ -30,6 +30,10 @@ You can test at website <a> </a>
 - Create authentication process for user. login and logout.
  - Log out feature and session user
  - When user access to dashboard, website redirect to sign in page when token not saved on browser
+ - Create some interface to mapping from database to backend.
+    + With each table on the database, we will map it on each interface on back end and front end. 
+- every user will have three notes for free. Over on three, user have to buy more notes or upgrade to pro with no limitation of feature on this tool.
+- User can create new folder and edit folder name as they want.
 
 Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
 
