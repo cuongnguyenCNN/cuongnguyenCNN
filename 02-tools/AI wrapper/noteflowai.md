@@ -34,6 +34,8 @@ You can test at website <a> </a>
     + With each table on the database, we will map it on each interface on back end and front end. 
 - every user will have three notes for free. Over on three, user have to buy more notes or upgrade to pro with no limitation of feature on this tool.
 - User can create new folder and edit folder name as they want.
+- Design database and reused component 
+- Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED
 
 Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
 
