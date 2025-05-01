@@ -54,7 +54,7 @@ s
 - ♏️ <https://nodejs.org/> - Nodejs Run JavaScript Everywhere
 - ♏️ <https://guides.rubyonrails.org/action_cable_overview.html> - Action Cable Web Socket
 
-## Docker & Networking
+## Docker & Networking and Kubernets
 - ©️ <https://hub.docker.com/> Docker Hub
 - ©️ <https://docker.com/> Docker
 - ©️ <https://docs.docker.com> Docker Images
