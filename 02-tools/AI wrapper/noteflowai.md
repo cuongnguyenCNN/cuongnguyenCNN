@@ -42,6 +42,8 @@ You can test at website <a> </a>
  - On each note have assign to folder, you can assign it to any folder.
  And it automatically update again, show on sidebar. When you click on each one folder, it will show all of notes that belong folder.
 
+
+- Today: User can delete folder and edit folder name. => When all action done, folder will automatically update and show it on sidebar
 Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
 
 📁 Folder bên trái quản lý ghi chú
