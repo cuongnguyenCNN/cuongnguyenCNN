@@ -37,7 +37,10 @@ You can test at website <a> </a>
 - Design database and reused component 
 - Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED
 - User can edit , delete folder and add new folder 
-
+- I saw it like folde on your computer. When you create a new folder it will show on sidebar, and many notes on folder.
+ - On All notes, it is list of all of notes that you still not grant it to any folder.
+ - On each note have assign to folder, you can assign it to any folder.
+ And it automatically update again, show on sidebar. When you click on each one folder, it will show all of notes that belong folder.
 
 Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
 
