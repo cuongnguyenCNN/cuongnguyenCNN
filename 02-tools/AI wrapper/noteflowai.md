@@ -36,6 +36,8 @@ You can test at website <a> </a>
 - User can create new folder and edit folder name as they want.
 - Design database and reused component 
 - Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED
+- User can edit , delete folder and add new folder 
+
 
 Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
 
