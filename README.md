@@ -10,21 +10,23 @@
 ## 🛠️ List of projects that I am building
 # <a href="https://github.com/cuongnguyenCNN/cuongnguyenCNN/tree/main/02-tools/chrome-extension">Chrome Extensions</a>:
 -  ♏️   <a href="https://standupreminder.netlify.app/">StandupReminder</a>
+         - A tool remind you stand up and work out when you are sitting in front of the desktop or laptop very long time.
+         That affect your health and make bad dopamine.
 -  ♏️   <a href="https://autofriends.netlify.app/">AudoFriends</a>
+         - A tool help you auto make friends on facebook, auto accept friends
 
 # Tools AI Wrapper
 -   ♏️  <a href="https://noteflowai.netlify.app/">NoteFlow AI</a>
-
+        A tool help you take main notes on all large files as video, pdf, audio, recording. Help you memories all information easy and mind map it for long time.
 # Social Media
-s
 -   ♏️  <a href="https://video-bridge.netlify.app/">Videos Brige</a>
-
+    - With some click on this tool, you can post a short video to many social media like facebook, youtube short, tiktok..
 # Education 
 -   ♏️  <a href="https://daihocvn.netlify.app/">Videos Brige</a>
 
 
 ## 🛠️ Technologies And Tools
-- Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED
+- Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED, COMPONENTS
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
