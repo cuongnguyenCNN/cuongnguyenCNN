@@ -35,15 +35,20 @@ You can test at website <a> </a>
 - every user will have three notes for free. Over on three, user have to buy more notes or upgrade to pro with no limitation of feature on this tool.
 - User can create new folder and edit folder name as they want.
 - Design database and reused component 
-- Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED
+- Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED, COMPONENTS
 - User can edit , delete folder and add new folder 
 - I saw it like folde on your computer. When you create a new folder it will show on sidebar, and many notes on folder.
  - On All notes, it is list of all of notes that you still not grant it to any folder.
  - On each note have assign to folder, you can assign it to any folder.
  And it automatically update again, show on sidebar. When you click on each one folder, it will show all of notes that belong folder.
+ - When user is at dashboard page, the user can see amount of notes on each folder.
+ Example: On all notes folder will show all notes that belong the user.
+   -  Each folder will have some folder related. 
 
 
 - Today: User can delete folder and edit folder name. => When all action done, folder will automatically update and show it on sidebar
+
+- Each user just create 3 notes for free. When over 3 notes, the user when click on all button that create new note will show pop up upgrade pro for monthly or yearly/
 Mình vừa nhìn kỹ UI bạn gửi, thì NoteFlow AI của bạn đã có các ý chính mạnh rồi:
 
 📁 Folder bên trái quản lý ghi chú
