@@ -76,6 +76,7 @@
 - ♏️ <https://lense.io> - Lense Kafka
 
 ## Database
+- ♏️  <https://supabase.com/> Supabase
 - ♏️ <https://www.postgresql.org> - Postgresql
 - ♏️ <https://www.mysql.com> - Mysql
 
