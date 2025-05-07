@@ -19,7 +19,7 @@
 -   ♏️  <a href="https://noteflowai.netlify.app/">NoteFlow AI</a>
         A tool help you take main notes on all large files as video, pdf, audio, recording. Help you memories all information easy and mind map it for long time.
 # Social Media
--   ♏️  <a href="https://video-bridge.netlify.app/">Videos Brige</a>
+-   ♏️  <a href="https://postsbridge.netlify.app/">Videos Brige</a>
     - With some click on this tool, you can post a short video to many social media like facebook, youtube short, tiktok..
 # Education 
 -   ♏️  <a href="https://daihocvn.netlify.app/">Videos Brige</a>
