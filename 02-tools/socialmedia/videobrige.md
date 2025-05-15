@@ -5,3 +5,4 @@ Some main features for videobrideg.
  + posts to many social media
  + Make scheduled post to many social media.
  + List posts 
+ + Create post as scheduled, draft or posted
