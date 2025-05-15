@@ -25,7 +25,7 @@
 -   ♏️  <a href="https://daihocvn.netlify.app/">Videos Brige</a>
 
 
-## 🛠️ Technologies And Tools
+## 🛠️ Technologies And Tools help you increase your productive
 - Following all coding standard like : KISS, DRY, SOLID, REFACTORY, REUSED, COMPONENTS
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
