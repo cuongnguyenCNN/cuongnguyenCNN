@@ -9,3 +9,11 @@ Some main features for videobrideg.
 
  Supabase support all session on this website from login at third-part to edge function
  Edge function run every 1 minute to check all posts at scheduled status ==> Posted and upload to all platforms
+
+ Unlimited Posts
+20 Videos / Month
+5 Auto-Recurring Posts
+4 Social Media Platforms
+Image, Video & Carousel Posting
+AI Assistant
+AI Ideas (Limited)
