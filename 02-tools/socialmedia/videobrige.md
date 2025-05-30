@@ -6,3 +6,6 @@ Some main features for videobrideg.
  + Make scheduled post to many social media.
  + List posts 
  + Create post as scheduled, draft or posted
+
+ Supabase support all session on this website from login at third-part to edge function
+ Edge function run every 1 minute to check all posts at scheduled status ==> Posted and upload to all platforms
